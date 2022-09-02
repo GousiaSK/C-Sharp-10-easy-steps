@@ -1,0 +1,19 @@
+UWP-Universal Windows Platform
+1.Creating applications across all Windows Devices including pcs,
+tablets, phones but it only supports Windows 10 or later.
+WPF-Windows Presentation Foundation
+1.It lets you design goodlooking configurable visual applications
+with styled components
+UWP and WPF can be quite tricky
+WFA-Windows forms applications-In this training we use this
+1.Lets you create user interfaces using traditional components such
+as buttons and text boxes.
+2.Applications are really useful but great for our purposes
+Console Applications
+1.Program intended to be from the prompt.
+2.Its non visual
+3.It doesnot have user interface buttons and menus
+
+https://docs.microsoft.com/en-us/dotnet/
+
+.NET framework is the standard code library for that we use in C#
